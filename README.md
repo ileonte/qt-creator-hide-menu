@@ -19,6 +19,5 @@ running Qt Creator 4.5.0
 The plugin is automatically placed in `${HOME}/.local/share/data/QtProject/qtcreator/plugins/${QTCREATOR_VERSION}` and it 
 should be automatically picked-up by Qt Creator (you will need to close existing instances and restart Qt Creator though).
 
-When the plugin is activated a new option (`Hide main menu`) will be added to the `Window` menu.
-The default keyboard shortcut for activating this option is `Ctrl+Meta+Alt+M`. You can change it via configuration dialog
-(`Tools -> Options -> Environment -> Keyboard` - search for `menuhide`).
+When the plugin is activated a new option (`Hide main menu`) will be added to the `Window` menu. The default keyboard shortcut for activating this option is `Ctrl+Meta+Alt+M`. You can change it via the configuration dialog
+(`Tools` -> `Options` -> `Environment` -> `Keyboard` - search for `menuhide`).
