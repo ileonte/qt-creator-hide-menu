@@ -1,1 +1,6 @@
 menuhide.pro.user
+.moc/
+.obj/
+.qmake.stash
+Makefile
+menuhide.json
