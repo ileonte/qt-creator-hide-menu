@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"MenuHide\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"Ionuț Leonte\",
+    \"Copyright\" : \"(C) 2018 Ionuț Leonte\",
+    \"License\" : \"MIT\",
+    \"Description\" : \"Add a keyboard shortcut to hide/show the menu bar.\",
+    \"Url\" : \"https://ltkstudios.net\",
+    $$dependencyList
+}
