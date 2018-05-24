@@ -5,7 +5,7 @@ This plugin adds the ability to hide/show the menu bar of the main window of Qt 
 ## Build instructions
 
 1. `cd $SOME_DIR`
-1. `git clone https://github.com/qt-creator/qt-creator.git`
+1. `git clone https://code.qt.io/qt-creator/qt-creator.git`
 1. `cd qt-creator`
 1. check out the branch or tag that corresponds to your Qt Creator version. For example: `git checkout v4.5.0` if you are running Qt Creator 4.5.0
 1. `qmake`   # you only need to run qmake in the qt-creator source tree, full build is not required
